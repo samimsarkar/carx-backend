@@ -12,7 +12,7 @@
 <h1><u>Features</u></h1>
 <ul>
     <li>This Website is old Car reselling website.</li>
-    <li>You can sell your old products to it.</li>
+    <!-- <li>You can sell your old products to it.</li> -->
     <li>There are three different user roles (Admin, Seller, Buyer)</li>
     <li>Admin See the options All Buyers & All Sellers</li>
     <li>Seller Can see the option My Products & Add A Product</li>
